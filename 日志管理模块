@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T08:51:31.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.4.4" etag="nFUAHIfakkhxpYvDJt7R" type="github"><diagram id="wPfplOoyYDIf2J-ivU1X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:52:53.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="42zqQVkKBeCktwaR0Usr" version="17.4.4" type="github">
+  <diagram id="wPfplOoyYDIf2J-ivU1X" name="Page-1">
+    <mxGraphModel dx="2062" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;超级管理员&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="374" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;日志管理模块&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JQWmDeALIdwlXZRCfwnf-3">
+          <mxGeometry x="15" y="15" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;查看日志&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JQWmDeALIdwlXZRCfwnf-3">
+          <mxGeometry x="127" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;删除日志&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JQWmDeALIdwlXZRCfwnf-3">
+          <mxGeometry x="127" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQWmDeALIdwlXZRCfwnf-1" target="JQWmDeALIdwlXZRCfwnf-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQWmDeALIdwlXZRCfwnf-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JQWmDeALIdwlXZRCfwnf-6" target="JQWmDeALIdwlXZRCfwnf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
