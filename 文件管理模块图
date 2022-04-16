@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:53:59.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.4.4" etag="FGh7nx8ZJHCdfn5S7-vH" type="github"><diagram id="0sAqANS5ukutyqNZhU1v">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-16T10:06:39.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SEQguodBkaselO5bXsGk" version="17.4.4" type="github">
+  <diagram id="0sAqANS5ukutyqNZhU1v" name="Page-1">
+    <mxGraphModel dx="2062" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_OonB36NgxrZLfn90mAk-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;用户&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;权限校验&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_OonB36NgxrZLfn90mAk-1" target="_OonB36NgxrZLfn90mAk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="452.5" width="360" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;文件管理模块&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_OonB36NgxrZLfn90mAk-4">
+          <mxGeometry y="25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;文件上传&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_OonB36NgxrZLfn90mAk-4">
+          <mxGeometry x="120" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;文件下载&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_OonB36NgxrZLfn90mAk-4">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;文件删除&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_OonB36NgxrZLfn90mAk-4">
+          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.933;exitY=0.263;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_OonB36NgxrZLfn90mAk-2" target="_OonB36NgxrZLfn90mAk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="_OonB36NgxrZLfn90mAk-2" target="_OonB36NgxrZLfn90mAk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OonB36NgxrZLfn90mAk-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="_OonB36NgxrZLfn90mAk-2" target="_OonB36NgxrZLfn90mAk-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
