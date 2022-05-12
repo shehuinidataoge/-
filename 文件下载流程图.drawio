@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T10:31:04.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gDvGnfOnVE64hgKH1Ugh" version="17.5.0" type="github"><diagram id="yAQsRkxzy1M32LrbWx4g" name="Page-1">5Vptb5s6FP41/rgK82p/hITcaS/SpEq7dx/d4ATuCI4cp0n262cb8xZIyrQ2dGtVqfhwbPBznuf42BQ4s83xH0626WeW0BzYVnIEzhzYNgwgkn+U5VRasG0Ma54lxqkx3Gc/qDFaxrrPErrrOArGcpFtu8YlKwq6FB0b4Zwdum4rlnefuiVr2jPcL0net/6bJSItrcgOGvt7mq3T6snQx+WdDamczUx2KUnYoWVyYuDMOGOivNocZzRX4FW4lP0WF+7WL8ZpIcZ0yL58/i6+ftx4i/TDId8nK38bvXPKUR5JvjcTNi8rThUCNJGAmCbjImVrVpA8bqwRZ/sioeoxlmw1Pp8Y20ojlMb/qRAnE12yF0yaUrHJzd3ymepBF+dmTDu250t6ZUIVRwhfU3HFz64jIKlL2YYKfpL9OM2JyB6770EMh9a1XwOzvDBI/wLqsI967IFoBpClLsIAIImJn8sJRA9cXq1FjVIrMg3uCsRDmgl6vyUanoNU4xDGj5QLeryOch8V08E3TDZShlX70AgDVmxPW6Ko/J4dR28KstJjJv5T3e880/rWujM/mpF142Qaz0hweyTBoTslw+0BhmNFb4RB7IIIgXAOYh9gH6BAWyIQ+Yr8aAEiRzljF4QxiKUWbBBhfStQbmV3KZAYgWiufi/rwrqJLmzHe1oYzi2FEfxtad0dyXp/StK710jvK8qGeIj0PUJL0uNIs99TTdzPczenuNvN/a47de7HbzD3+yNVgKZUgT+gAknshaK0SuKyvvFGq0D6z/RiMAdhP4dNrQLPmVoFcKCU/LMzPRpb31jDoboNydEAycdQuiWEKAShr3tJoy50QlcZXxvJ/clJXu+gJ8n1sJXpm7z/4rm+OgB5WgjTbmWtASX0eS+FgQDWu1sUArx4dSwPJmc5HNoz6R0PdnSamF/H7TZnAC5+dbi9xVMAOHZDNOkpAByqBfWCF/aZrHD5RB5o3gWa5Nm6kNdLiRHl0qDomy1JHpobmyxJypjSXfaDPOjxFNxblhVCT8mLgDe/xn9zemw6g/rMth2aK+S7qJZ31p2sEnFHMdXZyOgQmNG/qOm0XNhqtZOhP49R/RK/EbbgT1lvZXD4qSVD1fzWvtd0060plQh/d1d2xoNjvQe5s1o/dodsLjpLu+VrmjFegDoXzkAwiFy9+EvpR3pn54IQmbogCpqsIH3kClMWxurApNwqzppzw7OyQq6KqDwuxAD360Sess3DfnebkgJ2l0Z76BgQDSyN0H2xyhn2EHkDa+PoLeS0lfPwHhItdJ1c7QalJbJBCFsyeJr0N66lz2vCuj1dTYgHsK0yyzlccuLi5WoOJY9dqRQ19E5w9p3OWM7kuPOCFWqUVZbnZ6bnCMvZ9zrH7odl6KuE/etRkc3mQ3a5ljT/DuDEPwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-12T10:32:23.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6_a_ck8A9k9NmPEfFFcq" version="18.0.3" type="github">
+  <diagram id="yAQsRkxzy1M32LrbWx4g" name="Page-1">
+    <mxGraphModel dx="2062" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iPMktVKm5FhJwludf6pB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPMktVKm5FhJwludf6pB-1" target="iPMktVKm5FhJwludf6pB-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-1" value="开始&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-2" target="iPMktVKm5FhJwludf6pB-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-2" value="选中文件右键点击下载" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPMktVKm5FhJwludf6pB-4" target="iPMktVKm5FhJwludf6pB-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-4" value="选择文件下载目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-6" target="iPMktVKm5FhJwludf6pB-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-6" value="进入文件下载界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPMktVKm5FhJwludf6pB-8" target="iPMktVKm5FhJwludf6pB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-8" value="文件下载进度显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-10" target="iPMktVKm5FhJwludf6pB-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-10" value="下载成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="838" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-14" target="iPMktVKm5FhJwludf6pB-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iPMktVKm5FhJwludf6pB-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2259" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-14" target="iPMktVKm5FhJwludf6pB-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530.0000000000002" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-14" value="鉴别用户是否拥有下载权限" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="260" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iPMktVKm5FhJwludf6pB-18" target="iPMktVKm5FhJwludf6pB-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-18" value="提示没有权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPMktVKm5FhJwludf6pB-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="320" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
